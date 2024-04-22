@@ -1,0 +1,96 @@
+{
+    "chart": {
+        "result": [
+            {
+                "meta": {
+                    "currency": "JPY",
+                    "symbol": "^N225",
+                    "exchangeName": "OSA",
+                    "fullExchangeName": "Osaka",
+                    "instrumentType": "INDEX",
+                    "firstTradeDate": -157420800,
+                    "regularMarketTime": 1712708360,
+                    "hasPrePostMarketData": false,
+                    "gmtoffset": 32400,
+                    "timezone": "JST",
+                    "exchangeTimezoneName": "Asia/Tokyo",
+                    "regularMarketPrice": 39638.97,
+                    "fiftyTwoWeekHigh": 39703.93,
+                    "fiftyTwoWeekLow": 39546.42,
+                    "regularMarketDayHigh": 39703.93,
+                    "regularMarketDayLow": 39546.42,
+                    "regularMarketVolume": 0,
+                    "chartPreviousClose": 39773.13,
+                    "priceHint": 2,
+                    "currentTradingPeriod": {
+                        "pre": {
+                            "timezone": "JST",
+                            "end": 1712707200,
+                            "start": 1712707200,
+                            "gmtoffset": 32400
+                        },
+                        "regular": {
+                            "timezone": "JST",
+                            "end": 1712728800,
+                            "start": 1712707200,
+                            "gmtoffset": 32400
+                        },
+                        "post": {
+                            "timezone": "JST",
+                            "end": 1712728800,
+                            "start": 1712728800,
+                            "gmtoffset": 32400
+                        }
+                    },
+                    "dataGranularity": "1d",
+                    "range": "1d",
+                    "validRanges": [
+                        "1d",
+                        "5d",
+                        "1mo",
+                        "3mo",
+                        "6mo",
+                        "1y",
+                        "2y",
+                        "5y",
+                        "10y",
+                        "ytd",
+                        "max"
+                    ]
+                },
+                "timestamp": [
+                    1712708360
+                ],
+                "indicators": {
+                    "quote": [
+                        {
+                            "close": [
+                                39638.96875
+                            ],
+                            "high": [
+                                39703.9296875
+                            ],
+                            "open": [
+                                39582.328125
+                            ],
+                            "low": [
+                                39546.421875
+                            ],
+                            "volume": [
+                                0
+                            ]
+                        }
+                    ],
+                    "adjclose": [
+                        {
+                            "adjclose": [
+                                39638.96875
+                            ]
+                        }
+                    ]
+                }
+            }
+        ],
+        "error": null
+    }
+}
